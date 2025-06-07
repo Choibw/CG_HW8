@@ -12,4 +12,13 @@
   GLM: yaw function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
   GLM: angle function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
   GLM: angleAxis function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  frame_timer.cpp
+  load_mesh.cpp
+C:\Users\den01\OneDrive\바탕 화면\cg_HW8\Q2_Vertex_Arrays\load_mesh.cpp(101,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\den01\OneDrive\바탕 화면\cg_HW8\Q2_Vertex_Arrays\load_mesh.cpp(102,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\den01\OneDrive\바탕 화면\cg_HW8\Q2_Vertex_Arrays\load_mesh.cpp(103,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\den01\OneDrive\바탕 화면\cg_HW8\Q2_Vertex_Arrays\load_mesh.cpp(117,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\den01\OneDrive\바탕 화면\cg_HW8\Q2_Vertex_Arrays\load_mesh.cpp(118,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\den01\OneDrive\바탕 화면\cg_HW8\Q2_Vertex_Arrays\load_mesh.cpp(119,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
   Q2_Vertex_Arrays.vcxproj -> C:\Users\den01\OneDrive\바탕 화면\cg_HW8\bin\Q2_Vertex_Arrays.exe
