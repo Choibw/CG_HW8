@@ -1,4 +1,4 @@
-/*
+﻿/*
 	How to use this code:
 
 	Call load_mesh("bunny.obj") after creating the window using GLUT. This will

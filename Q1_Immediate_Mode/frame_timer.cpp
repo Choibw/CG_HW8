@@ -1,4 +1,4 @@
-/*
+﻿/*
 	How to use this code:
 
 	Call init_timer before starting rendering, i.e., before calling
